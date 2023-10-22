@@ -4,6 +4,10 @@
 
 Insurance companies provide coverage for expenses incurred by policyholders due to damages to health or property. These policies include medical bills, house insurance, motor vehicle insurance, and fire insurance, along with financial losses such as loss of income. Traditional methods of premium calculation are time-consuming and struggle to capture complex data interactions.
 
+---
+
+## Objective
+
 In this project, the goal is to build a machine learning model using XGBoost Regressor to predict healthcare expenses based on features such as age, BMI, smoking, etc. The aim is to help the insurance firm establish accurate premium rates and maximize profits.
 
 ---
