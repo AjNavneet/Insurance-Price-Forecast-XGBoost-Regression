@@ -1,4 +1,4 @@
-# Insurance Pricing Forecast Using XGBoost Regressor
+# Insurance Price Forecast Using XGBoost Regressor
 
 ## Project Overview
 
@@ -63,26 +63,6 @@ The dataset contains historical records of 1338 insured customers with the follo
 - The `lib` folder contains the original ipython notebook.
 - The `ml_pipeline` folder contains functions organized into different Python files. `engine.py` calls these functions to run the steps and print the results.
 - The `requirements.txt` file lists the required libraries with their respective versions.
-
----
-
-## Concepts Explored
-
-- Exploratory Data Analysis on Categorical and Continuous Data
-- Univariate Data Analysis
-- Bivariate Data Analysis
-- Correlation Analysis
-- Categorical Correlation with Chi-squared
-- Correlation between Categorical and Target Variables with ANOVA
-- Label Encoding for Categorical Variables
-- Understanding Linear Regression Assumptions
-- Implementing Linear Regression
-- Validating Linear Regression Assumptions
-- Implementing XGBoost Regressor
-- Building pipelines with Sklearn’s Pipeline operator
-- BayesSearchCV for XGBoost Hyperparameter Optimization
-- Evaluating Models with Regression Metrics (RMSE)
-- Presenting Non-Technical Metrics for Stakeholders
 
 ---
 
